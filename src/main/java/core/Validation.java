@@ -10,7 +10,7 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
 public class Validation {
 	 public String[][] a2d() throws IOException {
-		    String csvFile = "./src/main/resources/CSV_test.csv";
+		    String csvFile = "./src/main/resources/Test.csv";
 		    BufferedReader br = null;
 		    String line = null;
 		    String[] column = null; 
